@@ -1,0 +1,24 @@
+1] 1 x Arduino Nano
+2] 1 x 16x2 Lcd Display
+3] 1 x Lcd Display I2C Module
+4] 1 x DS18B20 waterproof Tempmerature Sensor
+5] 1 x Capacitive Soil Moisture Sensor
+6] 1 x DHT11
+7] 1 x HC-05 Bluetooth Module
+8] 1 x 12v 1A Adapter
+9] 1 x 5mm LDR
+10] 1 x LM292 IC
+11] 1 x 7805 Voltage Regulator
+12] 1 x Mini USB Cable
+13] 1 x Pcb Mount Female DC Socket
+14] 2 x 4-pin RMC Connector
+15] 3 x 3-pin RMC Connector
+16] 1 x 2-pin RMC Connector
+17] 1 x 8-pin IC Base
+18] 1 x 10K Preset
+19] 2 x Capacitors
+20] 2 x 104pf Ceramic Capacitors
+21] 6 x 1/4 w Resistors (1 x 1K, 1 x 2.2K, 1 x 4.7K, 3 x 10K)
+22] Wires
+23] 1 x PCB
+25] 1 x Plastic Box
